@@ -1,0 +1,15 @@
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\CollectionProject.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\CollectionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\CollectionProject.AssemblyInfoInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\CollectionProject.AssemblyInfo.cs
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\CollectionProject.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\bin\Debug\net6.0\CollectionProject.exe
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\bin\Debug\net6.0\CollectionProject.deps.json
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\bin\Debug\net6.0\CollectionProject.runtimeconfig.json
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\bin\Debug\net6.0\CollectionProject.dll
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\bin\Debug\net6.0\CollectionProject.pdb
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\CollectionProject.dll
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\refint\CollectionProject.dll
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\CollectionProject.pdb
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\CollectionProject.genruntimeconfig.cache
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\CollectionProject\obj\Debug\net6.0\ref\CollectionProject.dll
