@@ -8,7 +8,8 @@ namespace SecondConsoleApp // Note: actual namespace depends on the project name
     {
         static void Main(string[] args)
         {
-            /*
+            /* !! PREMIER EXEMPLES - INTRO CSHARP
+             
             //Lecture d'une entrée utilisateur
             Console.WriteLine("Hello World!");
             Console
@@ -33,22 +34,29 @@ namespace SecondConsoleApp // Note: actual namespace depends on the project name
 
             var random = new Random();
             var aleatoire = random.Next(1, 100);
-            var boucle = true;
-                
+
             Console.WriteLine("Bienvenue !");
 
-            while (boucle)
+            var tentative = 0;
+            var entree_int = 0;
+
+            while (aleatoire != entree_int)
             {
                 Console.WriteLine("Donnez un chiffre entre 1 et 100 :");
                 var entree = Console.ReadLine();
-                var entreeint = Convert.ToInt16(entree);
 
-                if (aleatoire == entreeint)
+                var ok = int.TryParse(entree, out entree_int);
+
+                while (ok != true)
                 {
-                    Console.WriteLine("Félicitations vous avez trouvé !!");
-                    boucle = false;
+                    Console.WriteLine("Donnez un chiffre entre 1 et 100 :");
+                    entree = Console.ReadLine();
+                    ok = int.TryParse(entree, out entree_int);
                 }
-                else if (aleatoire < entreeint)
+
+                tentative = tentative + 1;
+
+                if (aleatoire < entree_int)
                 {
                     Console.WriteLine("Plus petit que " + entree);
                 }
@@ -57,6 +65,7 @@ namespace SecondConsoleApp // Note: actual namespace depends on the project name
                     Console.WriteLine("Plus grand que " + entree);
                 }
             }
+            Console.WriteLine("Félicitations, vous avez trouvé en" + tentative + " tentative(s) !!");
         }
     }
 }
