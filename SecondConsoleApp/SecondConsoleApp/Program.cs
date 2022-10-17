@@ -39,7 +39,7 @@ namespace SecondConsoleApp // Note: actual namespace depends on the project name
 
             while (boucle)
             {
-                Console.WriteLine("Donnez un chiffre :");
+                Console.WriteLine("Donnez un chiffre entre 1 et 100 :");
                 var entree = Console.ReadLine();
                 var entreeint = Convert.ToInt16(entree);
 
