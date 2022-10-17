@@ -1,0 +1,15 @@
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net6.0\SecondConsoleApp.exe
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net6.0\SecondConsoleApp.deps.json
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net6.0\SecondConsoleApp.runtimeconfig.json
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net6.0\SecondConsoleApp.dll
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net6.0\SecondConsoleApp.pdb
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\SecondConsoleApp.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\SecondConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\SecondConsoleApp.AssemblyInfoInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\SecondConsoleApp.AssemblyInfo.cs
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\SecondConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\SecondConsoleApp.dll
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\refint\SecondConsoleApp.dll
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\SecondConsoleApp.pdb
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\SecondConsoleApp.genruntimeconfig.cache
+C:\Users\guill\Documents\.GitHub\csharp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net6.0\ref\SecondConsoleApp.dll
