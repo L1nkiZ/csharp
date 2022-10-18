@@ -35,7 +35,5 @@ for (int i = 0; i < tab_serie1.Length; i++)
 
 foreach (var item in tab_serie2)
 {
-    var e = int.Parse(tab_serie1[i]);
-    intTab1[i] = e;
     Console.WriteLine(item);
 }
