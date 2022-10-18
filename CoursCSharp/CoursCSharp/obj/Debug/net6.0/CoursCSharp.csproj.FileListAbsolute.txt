@@ -1,0 +1,15 @@
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\bin\Debug\net6.0\CoursCSharp.exe
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\bin\Debug\net6.0\CoursCSharp.deps.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\bin\Debug\net6.0\CoursCSharp.runtimeconfig.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\bin\Debug\net6.0\CoursCSharp.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\bin\Debug\net6.0\CoursCSharp.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\CoursCSharp.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\CoursCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\CoursCSharp.AssemblyInfoInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\CoursCSharp.AssemblyInfo.cs
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\CoursCSharp.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\CoursCSharp.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\refint\CoursCSharp.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\CoursCSharp.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\CoursCSharp.genruntimeconfig.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\CoursCSharp\obj\Debug\net6.0\ref\CoursCSharp.dll

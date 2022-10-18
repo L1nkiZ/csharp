@@ -1,0 +1,15 @@
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\bin\Debug\net6.0\JeuxNombreAvecFonction.exe
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\bin\Debug\net6.0\JeuxNombreAvecFonction.deps.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\bin\Debug\net6.0\JeuxNombreAvecFonction.runtimeconfig.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\bin\Debug\net6.0\JeuxNombreAvecFonction.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\bin\Debug\net6.0\JeuxNombreAvecFonction.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\JeuxNombreAvecFonction.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\JeuxNombreAvecFonction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\JeuxNombreAvecFonction.AssemblyInfoInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\JeuxNombreAvecFonction.AssemblyInfo.cs
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\JeuxNombreAvecFonction.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\JeuxNombreAvecFonction.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\refint\JeuxNombreAvecFonction.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\JeuxNombreAvecFonction.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\JeuxNombreAvecFonction.genruntimeconfig.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursCSharp\JeuxNombreAvecFonction\obj\Debug\net6.0\ref\JeuxNombreAvecFonction.dll
