@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoursCSharp", "CoursCSharp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuxNombreAvecFonction", "JeuxNombreAvecFonction\JeuxNombreAvecFonction.csproj", "{9DA67E92-B54C-4B6A-BE9D-68BACE29D72F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuxNombre", "JeuxNombre\JeuxNombre.csproj", "{8E3D8F4D-1A45-4FC0-A083-10EE4B551DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoBeauSoleil", "RestoBeauSoleil\RestoBeauSoleil.csproj", "{93018336-831C-4220-B0D7-E46B6CB66432}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{9DA67E92-B54C-4B6A-BE9D-68BACE29D72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DA67E92-B54C-4B6A-BE9D-68BACE29D72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DA67E92-B54C-4B6A-BE9D-68BACE29D72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3D8F4D-1A45-4FC0-A083-10EE4B551DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3D8F4D-1A45-4FC0-A083-10EE4B551DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3D8F4D-1A45-4FC0-A083-10EE4B551DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3D8F4D-1A45-4FC0-A083-10EE4B551DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93018336-831C-4220-B0D7-E46B6CB66432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93018336-831C-4220-B0D7-E46B6CB66432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93018336-831C-4220-B0D7-E46B6CB66432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93018336-831C-4220-B0D7-E46B6CB66432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\RestoBeauSoleil.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\RestoBeauSoleil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\RestoBeauSoleil.AssemblyInfoInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\RestoBeauSoleil.AssemblyInfo.cs
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\RestoBeauSoleil.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\bin\Debug\net6.0\RestoBeauSoleil.exe
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\bin\Debug\net6.0\RestoBeauSoleil.deps.json
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\bin\Debug\net6.0\RestoBeauSoleil.runtimeconfig.json
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\bin\Debug\net6.0\RestoBeauSoleil.dll
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\bin\Debug\net6.0\RestoBeauSoleil.pdb
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\RestoBeauSoleil.dll
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\refint\RestoBeauSoleil.dll
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\RestoBeauSoleil.pdb
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\RestoBeauSoleil.genruntimeconfig.cache
+C:\Users\guill\Documents\.GitHub\csharp\RestoBeauSoleil\RestoBeauSoleil\obj\Debug\net6.0\ref\RestoBeauSoleil.dll

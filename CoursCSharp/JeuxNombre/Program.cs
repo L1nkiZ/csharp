@@ -48,7 +48,7 @@ namespace SecondConsoleApp // Note: actual namespace depends on the project name
                 var try_int = int.TryParse(entree, out entree_int);
 
                 while (try_int != true)
-                {
+                {   
                     Console.WriteLine("Donnez un chiffre entre 1 et 100 :");
                     entree = Console.ReadLine();
                     try_int = int.TryParse(entree, out entree_int);
