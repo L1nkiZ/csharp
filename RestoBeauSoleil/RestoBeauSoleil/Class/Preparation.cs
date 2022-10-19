@@ -8,10 +8,11 @@ namespace RestoBeauSoleil.Class
 {
     internal abstract class Preparation
     {
-        public Preparation(String nom)
+        public Preparation(String nom, float prix)
         {
             Nom = nom;
             Ingredients = new List<string>();
+            setPrice(prix);
         }
 
         public String Nom { get; set; }

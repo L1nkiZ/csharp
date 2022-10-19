@@ -8,7 +8,7 @@ namespace RestoBeauSoleil.Class
 {
     internal class Plat : Preparation
     {
-        public Plat(String nom, bool vege) : base(nom)
+        public Plat(String nom, bool vege, float prix) : base(nom, prix)
         {
             Vege = vege;
         }

@@ -10,7 +10,15 @@ namespace RestoBeauSoleil.Class
     {
         public Carte(DateTime date, Entree[] entrees, Plat[] plats, Dessert[] desserts)
         {
-               
+
+        }
+
+        public Carte(DateTime date, List<Entree> entrees, List<Plat> plats, List<Dessert> desserts)
+        {
+            this.date = date;
+            this.entrees = entrees;
+            this.plats = plats;
+            this.desserts = desserts;
         }
 
         public DateTime date { get; set; }

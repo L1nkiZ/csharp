@@ -8,8 +8,8 @@ namespace RestoBeauSoleil.Class
 {
     internal class Restaurant
     {
-        public List <Table> Table { get; set; }
-        public List <Carte> Carte { get; set; }
-        public int MyProperty { get; set; }
+        public List <Table> Tables { get; set; }
+        public List <Carte> Cartes { get; set; }
+        
     }
 }
