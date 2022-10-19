@@ -8,6 +8,7 @@ namespace RestoBeauSoleil.Class
 {
     internal class Client
     {
+        public int Identifiant { get; set; }
         public Entree Entree { get; set; }
         public Plat Plat { get; set; }
         public Dessert Dessert { get; set; }

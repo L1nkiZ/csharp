@@ -5,11 +5,13 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoursCSharp", "CoursCSharp\CoursCSharp.csproj", "{2ABDDD50-322E-415D-BCC8-2FCCBD93168A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuxNombreAvecFonction", "JeuxNombreAvecFonction\JeuxNombreAvecFonction.csproj", "{9DA67E92-B54C-4B6A-BE9D-68BACE29D72F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JeuxNombreAvecFonction", "JeuxNombreAvecFonction\JeuxNombreAvecFonction.csproj", "{9DA67E92-B54C-4B6A-BE9D-68BACE29D72F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuxNombre", "JeuxNombre\JeuxNombre.csproj", "{8E3D8F4D-1A45-4FC0-A083-10EE4B551DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JeuxNombre", "JeuxNombre\JeuxNombre.csproj", "{8E3D8F4D-1A45-4FC0-A083-10EE4B551DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoBeauSoleil", "RestoBeauSoleil\RestoBeauSoleil.csproj", "{93018336-831C-4220-B0D7-E46B6CB66432}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestoBeauSoleil", "RestoBeauSoleil\RestoBeauSoleil.csproj", "{93018336-831C-4220-B0D7-E46B6CB66432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursLinq", "CoursLinq\CoursLinq.csproj", "{3553F9B9-8D3C-4DA3-A25D-CEA27367822D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{93018336-831C-4220-B0D7-E46B6CB66432}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93018336-831C-4220-B0D7-E46B6CB66432}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93018336-831C-4220-B0D7-E46B6CB66432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3553F9B9-8D3C-4DA3-A25D-CEA27367822D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3553F9B9-8D3C-4DA3-A25D-CEA27367822D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3553F9B9-8D3C-4DA3-A25D-CEA27367822D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3553F9B9-8D3C-4DA3-A25D-CEA27367822D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

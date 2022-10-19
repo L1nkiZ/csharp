@@ -6,6 +6,14 @@ using System.Threading.Tasks;
 
 namespace RestoBeauSoleil.Class
 {
+    /*
+    public GroupeCLients()
+    {
+        Client = new List<Client>();
+
+    }
+    */
+
     internal class GroupeCLients
     {
         public List <Client> Clients { get; set; }
