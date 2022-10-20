@@ -1,0 +1,15 @@
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\bin\Debug\net6.0\CoursADO.exe
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\bin\Debug\net6.0\CoursADO.deps.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\bin\Debug\net6.0\CoursADO.runtimeconfig.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\bin\Debug\net6.0\CoursADO.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\bin\Debug\net6.0\CoursADO.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\CoursADO.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\CoursADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\CoursADO.AssemblyInfoInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\CoursADO.AssemblyInfo.cs
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\CoursADO.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\CoursADO.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\refint\CoursADO.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\CoursADO.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\CoursADO.genruntimeconfig.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursADO\CoursADO\obj\Debug\net6.0\ref\CoursADO.dll
