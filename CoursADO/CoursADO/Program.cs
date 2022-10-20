@@ -27,10 +27,14 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 Console.WriteLine($"{id},{username},{date.ToShortDateString()}");
             }
 
+            reader.Close();
+
             sql = "insert into demo (username, birthday) values '@u, @d";
             cmd = new SqlCommand(sql);
             cmd.Parameters.Add(new SqlParameter("@u", "Jean"));
             cmd.Parameters.Add(new SqlParameter("@d", DateTime.Now));
+
+            cmd.Connection = connection;
             cmd.ExecuteNonQuery();
 
             Disconnect();
