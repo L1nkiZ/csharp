@@ -1,0 +1,15 @@
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\bin\Debug\net6.0\CoursLinq.exe
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\bin\Debug\net6.0\CoursLinq.deps.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\bin\Debug\net6.0\CoursLinq.runtimeconfig.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\bin\Debug\net6.0\CoursLinq.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\bin\Debug\net6.0\CoursLinq.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\CoursLinq.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\CoursLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\CoursLinq.AssemblyInfoInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\CoursLinq.AssemblyInfo.cs
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\CoursLinq.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\CoursLinq.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\refint\CoursLinq.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\CoursLinq.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\CoursLinq.genruntimeconfig.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursLinq\obj\Debug\net6.0\ref\CoursLinq.dll
