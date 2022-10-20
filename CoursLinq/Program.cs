@@ -19,7 +19,7 @@ namespace CoursLinq
 
             foreach (var item in qryLivres)
             {
-                Console.WriteLine($"{item.ISBN} - {item.Titre}");
+                Console.WriteLine($"{item.AnneeSortie} - {item.Titre}");
             }
         }
     }
