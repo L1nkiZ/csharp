@@ -1,0 +1,15 @@
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\bin\Debug\net6.0\CoursThreads.exe
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\bin\Debug\net6.0\CoursThreads.deps.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\bin\Debug\net6.0\CoursThreads.runtimeconfig.json
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\bin\Debug\net6.0\CoursThreads.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\bin\Debug\net6.0\CoursThreads.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\CoursThreads.csproj.AssemblyReference.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\CoursThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\CoursThreads.AssemblyInfoInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\CoursThreads.AssemblyInfo.cs
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\CoursThreads.csproj.CoreCompileInputs.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\CoursThreads.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\refint\CoursThreads.dll
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\CoursThreads.pdb
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\CoursThreads.genruntimeconfig.cache
+C:\Users\guill\Documents\.GitHub\csharp\CoursThreads\CoursThreads\obj\Debug\net6.0\ref\CoursThreads.dll
