@@ -31,6 +31,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             cmd = new SqlCommand(sql);
             cmd.Parameters.Add(new SqlParameter("@u", "Jean"));
             cmd.Parameters.Add(new SqlParameter("@d", DateTime.Now));
+            cmd.ExecuteNonQuery();
 
             Disconnect();
         }
